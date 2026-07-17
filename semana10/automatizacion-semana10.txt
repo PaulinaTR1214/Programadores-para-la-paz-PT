@@ -1,0 +1,17 @@
+Evento:
+Nuevo reporte registrado.
+
+Acción:
+Enviar un mensaje mediante Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar el sistema."
+
+Información que no debe enviarse:
+
+- Nombres completos.
+- Documentos de identidad.
+- Direcciones.
+- Teléfonos.
+- Contraseñas.
+- Información sensible.

@@ -1,0 +1,12 @@
+Las dos primeras tareas serían:
+
+1. Registrar una incidencia.
+2. Recibir una alerta en Telegram.
+
+Son las más importantes porque permiten crear el reporte y avisar al equipo para darle seguimiento.
+
+Definición de terminado:
+
+- La funcionalidad funciona correctamente.
+- Fue probada.
+- Quedó registrada en Git.
